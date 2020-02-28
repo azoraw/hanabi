@@ -14,7 +14,7 @@ public class Settings {
         numberOfCardsOnHand.put(5, 4);
     }
 
-    public static int getNumberOfCards(int playersSize) {
-        return numberOfCardsOnHand.get(playersSize);
+    public static int getNumberOfCards(int numberOfPlayers) {
+        return numberOfCardsOnHand.get(numberOfPlayers);
     }
 }

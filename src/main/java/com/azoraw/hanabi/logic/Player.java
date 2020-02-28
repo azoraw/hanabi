@@ -11,5 +11,4 @@ import java.util.List;
 public class Player {
     private final String name;
     private final List<Card> cards = new ArrayList<>();
-
 }
