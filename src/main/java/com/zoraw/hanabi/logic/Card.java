@@ -1,4 +1,4 @@
-package com.azoraw.hanabi.logic;
+package com.zoraw.hanabi.logic;
 
 import lombok.Builder;
 import lombok.Value;

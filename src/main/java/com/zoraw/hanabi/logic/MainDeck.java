@@ -1,4 +1,4 @@
-package com.azoraw.hanabi.logic;
+package com.zoraw.hanabi.logic;
 
 import java.util.ArrayList;
 import java.util.Collections;
